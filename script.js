@@ -18,7 +18,7 @@ function load() {
 function gimme() {
 	let prompt = prompts[Math.floor(Math.random()*prompts.length)];
 	if (prompt==="Random Set") {
-		prompt = sets[Math.floor(Math.random()*sets.length)];
+		prompt = "Set: " + sets[Math.floor(Math.random()*sets.length)];
 	}
 	document.body.innerHTML += "<br>" + prompt;
 }
