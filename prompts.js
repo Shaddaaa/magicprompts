@@ -42,9 +42,7 @@ ToughnessMatters,1
 Helden,1
 Mirrodin,1
 Dominaria,1
-Theros,1
 Ravnica,1
-Alara,1
 Zendikar,1
 Legendary,1
 Fixing,1
